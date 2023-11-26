@@ -8,7 +8,7 @@ if (xp <= 1000) {
 } else if (xp <= 5000) {
   console.log(`O herói de nome ${nome} está no nivel prata`);
 } else if (xp <= 6000) {
-  console.log(`O herói de nome ${nome} está no nivel diamante`);
+  console.log(`O herói de nome ${nome} está no nivel ouro`);
 } else if (xp <= 8000) {
   console.log(`O herói de nome ${nome} está no nivel platina`);
 } else if (xp <= 9000) {
